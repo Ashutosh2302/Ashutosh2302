@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 <h4 align=""><ul>
   <li>Python</li>
-  <li>Django/li>
+  <li>Django</li>
   <li>FastApi</li>
   <li>SQL</li>
   <li>Machine Learning</li>
