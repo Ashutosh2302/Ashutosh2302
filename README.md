@@ -30,10 +30,6 @@ Here are some ideas to get you started:
 <br/> -->
 <h3 align="left">My skill stack:</h3>
 
-<div>
-<p align="center">
-  <img align="right" src="WDGIF.gif" alt="animated" height="250px" width="350px"/>
-</p>
 
 <h4 align=""><ul>
   <li>Python</li>
