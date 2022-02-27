@@ -39,6 +39,8 @@ Here are some ideas to get you started:
   <li>SQL</li>
   <li>Machine Learning</li>
   <li>GIT</li>
+  <li>C</li>
+  <li>C++</li>
 </ul>
 </h4>
 
