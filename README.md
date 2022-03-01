@@ -41,6 +41,7 @@ Here are some ideas to get you started:
   <li>GIT</li>
   <li>C</li>
   <li>C++</li>
+  <li>Databases- SQL and NoSQL</li>
 </ul>
 </h4>
 
