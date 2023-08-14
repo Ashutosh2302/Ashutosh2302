@@ -33,14 +33,13 @@ Here are some ideas to get you started:
 
 
 <h4 align=""><ul>
+  <li>Next Js</li>
+  <li>React Js</li>  
+  <li>Node Js</li>
+  <li>TypeScript</li>
   <li>Python</li>
   <li>Django</li>
   <li>FastAPI</li>
-  <li>SQL</li>
-  <li>Machine Learning</li>
-  <li>GIT</li>
-  <li>C</li>
-  <li>C++</li>
   <li>Databases- SQL and NoSQL</li>
 </ul>
 </h4>
