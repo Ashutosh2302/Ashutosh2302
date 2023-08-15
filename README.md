@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h3 align="center">I am a Computer Engineering masters student at Trinity College Dublin</h3>
+<h3 align="center">Software Engineer</h3>
 
 <br/>
 
